@@ -1,16 +1,21 @@
-## Hi there 👋
+Krishna Pipraiya
 
-<!--
-**Krishna-Pipraiya/Krishna-Pipraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio website built with HTML.
 
-Here are some ideas to get you started:
+About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at UPES.
+
+I am currently working on strengthening my programming, software development, web development, and AI/ML skills through practical projects and consistent learning.
+
+Skills : 
+C,
+Python,
+ HTML,
+Data Structures & Algorithms,
+Git & GitHub,
+Linux,
+AI & Machine Learning fundamentals,
+Projects,
+
+This repository contains the source code for my personal portfolio and the projects, experience, and skills included in it.
